@@ -1,0 +1,77 @@
+{
+    "Header": {
+        "title": "Nombre",
+        "paragraph": "de mi super empresa"
+    },
+    "About": {
+        "paragraph": "texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- ",
+        "Why": [
+            "texto aca --- texto aca --- .",
+            "texto aca --- texto aca --- .",
+            "texto aca --- texto aca --- texto aca --- "
+        ],
+        "Why2": [
+            "texto aca --- texto aca --- "
+        ]
+    },
+    "Services": [{
+
+            "icon": "fa fa-car",
+            "name": "texto aca --- ",
+            "text": "texto aca --- "
+            ,"text2":"texto aca --- "
+            ,"text3":"texto aca --- "
+            ,"text4":"texto aca --- texto aca --- texto aca --- texto aca --- "
+        },
+        {
+             "icon": "fa fa-truck",
+             "name": "texto aca --- ",
+             "text": "texto aca --- texto aca --- "
+            ,"text2":"texto aca --- texto aca --- "
+            ,"text3":"texto aca --- texto aca --- "
+            ,"text4":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+            ,"text5":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+        },
+        {
+             "icon": "fa fa-subway",
+             "name": "texto aca --- texto aca --- ",
+             "text": "texto aca --- texto aca --- texto aca --- texto aca ---  "
+            ,"text2":"texto aca --- texto aca --- texto aca --- texto aca --- "
+            ,"text3":"Rtexto aca --- texto aca --- texto aca --- "
+            ,"text4":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+            ,"text5":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+            ,"text6":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+            ,"text7":"texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+
+        }
+    ],
+    "Testimonials": [],
+    "Team": [],
+    "Contact": {
+        "address": "San Jose, Costa Rica",
+        "email": "info@miempresa.com",
+        "facebook": "",
+        "instagram": ""
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "texto aca --- texto aca --- ",
+            "text": "texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "texto aca --- texto aca --- ",
+            "text": "texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+        },
+        {
+            "icon": "fa fa-envelope",
+            "title": "texto aca --- texto aca --- texto aca --- ",
+            "text": "texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+        },
+        {
+            "icon": "fa fa-bar-chart",
+            "title": "texto aca --- texto aca --- texto aca --- ",
+            "text": "texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- texto aca --- "
+        }
+    ]
+}
